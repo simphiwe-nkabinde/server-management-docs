@@ -1,0 +1,1 @@
+ - [Create A New Sudo Enabled User on Ubuntu](https://github.com/simphiwe-nkabinde/server-management-docs/blob/main/new-sudo-user.md)
